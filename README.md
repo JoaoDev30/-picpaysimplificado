@@ -11,7 +11,7 @@
 PicPay Simplificado é uma aplicação backend construída em **Java + Spring Boot**, com banco de dados **H2 em memória**.  
 O objetivo é simular operações de usuários comuns e lojistas, com depósito e transferência de valores, seguindo regras de negócio típicas de um serviço financeiro.  
 
-Desenvolvido com o apoio do vídeo da **Fernanda Kipper**, que ajudou a fortalecer meus conhecimentos de boas práticas de backend.  
+
 
 ---
 
